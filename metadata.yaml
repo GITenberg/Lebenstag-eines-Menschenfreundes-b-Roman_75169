@@ -1,0 +1,35 @@
+_repo: Lebenstag-eines-Menschenfreundes-b-Roman_75169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schäfer, Wilhelm
+    aliases:
+    - Schafer, Wilhelm
+    - Schäfer-Dittmar, Wilhelm
+    birthdate: 1868
+    deathdate: 1952
+    gutenberg_agent_id: '47579'
+    url: http://www.gutenberg.org/2009/agents/47579
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Wilhelm_Sch%C3%A4fer_(Schriftsteller)
+    - https://en.wikipedia.org/wiki/Wilhelm_Sch%C3%A4fer
+description: ''
+gutenberg_issued: '2025-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75169'
+language: de
+pgterms:marc905: 20180128054649schfer
+pgterms:marc906: '1920'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: $aMünchen :$bGeorg Müller Verlag, $c1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pestalozzi, Johann Heinrich, 1746-1827 -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Lebenstag eines Menschenfreundes : $b Roman'
+url: http://www.gutenberg.org/ebooks/75169
